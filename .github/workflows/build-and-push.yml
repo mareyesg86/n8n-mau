@@ -28,4 +28,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: docker.io/tu-usuario/n8n-xlsx:latest
+        tags: docker.io/mareyesg/n8n-xlsx:latest
